@@ -23,8 +23,8 @@ I am currently under the **Edexcel IGCSE** board. I focus heavily on analytical 
 
 ### 🎮 Outside of Coding
 When I'm not studying or building things, you can usually find me:
-* Playing open-world games or rocket league on my PS5.
-* Managing my Fantasy Premier League (FPL) team and supporting Liverpool FC.
+* Playing open-world games on my PS5.
+* Watching and enjoying sports such as Football, Cricket, Tennis and F1
 
 ---
 
