@@ -1,32 +1,32 @@
 # Hi, I'm Naajid Monowar Hossain 👋
 
-I am an entrepreneurial tech enthusiast, software developer, and student dedicated to building practical, AI-driven applications and robust web tools. I love exploring complex logic, deep-diving into code, and creating functional software that solves real-world problems.
+I'm a Class 10 student from Bangladesh who loves tech, gaming, and building things with code. Instead of just studying theory, I like to experiment with **Python** and use AI tools ("vibe coding") to build functional projects that solve real-world problems or help me study.
+
+I prefer self-study and digging deep into how things work rather than just rushing through a syllabus. 
 
 ---
 
-### 🛠️ Core Tech Stack & Skills
-* 🐍 **Backend & Scripting:** Python automation, scripting, and data manipulation
-* 🌐 **Web Development:** Creating responsive, user-focused web applications
-* 🤖 **AI Integrations:** Injecting smart features and AI workflows into functional software projects
-* 💼 **Digital Tools:** Meta Business Suite, digital logistics, and product branding workflow management
+### 🚀 What I'm Working On & Learning
+* 🐍 **Python Scripts:** Building simple automation scripts and logic-based tools.
+* 🤖 **Vibe Coding:** Leveraging AI to help me write, debug, and accelerate software projects.
+* 📚 **Current Project:** Building a web app that uses AI to take Grade 9–10 past-paper content and turn it into active revision material.
 
 ---
 
-### 🚀 Featured Project Focus
-* 💻 **AI-Powered Educational Tools:** Currently engineering a web application designed for Grade 9–10 students that utilizes AI models to transform standard past-paper content into dynamic, interactive revision material.
-* 📦 Check out my **Pinned Repositories** below to see my latest open-source code, Python tools, and web applications!
+### 📊 Academics & Logic
+I am currently under the **Edexcel IGCSE** board. I focus heavily on analytical subjects because they give me the logical foundation needed to write better code:
+* Mathematics & Further Pure Mathematics
+* Physics & Chemistry
+* Economics & Accounting
 
 ---
 
-### 📊 Academic Foundation
-* **Exam Board:** Edexcel IGCSE
-* **Core Subject Focus:** Advanced Mathematics, Further Pure Mathematics, Physics, Chemistry, Economics, and Accounting. 
-* *I prioritize a deep, conceptual understanding of analytical subjects to build the core mathematical and logical foundations required for high-level software engineering.*
+### 🎮 Outside of Coding
+When I'm not studying or building things, you can usually find me:
+* Playing open-world games or rocket league on my PS5.
+* Managing my Fantasy Premier League (FPL) team and supporting Liverpool FC.
 
 ---
 
-### 🌐 Connect With Me
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
-* 📸 **Instagram:** [@n_m_h0810](https://instagram.com/n_m_h0810)
-
-*“Building the future, one script at a time.”*
+### 🌐 Connect
+* 📸 Instagram: [@n_m_h0810](https://instagram.com/n_m_h0810)
